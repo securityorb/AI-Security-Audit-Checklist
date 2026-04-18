@@ -201,7 +201,7 @@ Any disputes shall be resolved through:
 
 SecurityOrb  
 Email: info@securityorb.com 
-Website: GitHub]
+Website: GitHub Link - https://github.com/securityorb/AI-Security-Audit-Checklist/new/docs/terms-of-service.md
 
 ---
 
