@@ -1,6 +1,6 @@
 # Privacy Policy
 **AI Security Audit Checklist Mobile App**  
-Last Updated: [Insert Date]
+Last Updated: April 20th, 2026
 
 ## 1. Introduction
 
