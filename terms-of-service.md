@@ -1,6 +1,6 @@
 # Terms of Service
 **AI Security Audit Checklist Mobile App**  
-Last Updated: [Insert Date]
+Last Updated: April 20th, 2026
 
 ## 1. Acceptance of Terms
 
@@ -86,7 +86,6 @@ Certain features require a paid subscription.
 Payments are processed through:
 - Apple App Store  
 - Google Play Store  
-- :contentReference[oaicite:0]{index=0}  
 
 ### Billing Terms
 - Subscriptions renew automatically unless canceled  
@@ -201,8 +200,8 @@ Any disputes shall be resolved through:
 ## 17. Contact Information
 
 SecurityOrb  
-Email: [Insert Email]  
-Website: [Insert Website or GitHub]
+Email: info@securityorb.com 
+Website: GitHub]
 
 ---
 
